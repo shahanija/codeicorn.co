@@ -2089,7 +2089,7 @@ hr {
 }
 
 .navbar-expand-lg.navbar-floating.navbar-light {
-  background-color: #fff;
+  /* background-color: #fff; */
   box-shadow: 0 1px 6px rgba(56, 51, 64, 0.1);
 }
 
@@ -2230,8 +2230,9 @@ hr {
 
 .mobile-preview {
   width: 100%;
-  max-width:400px;
-  height: 370;
+  max-width:auto;
+  margin-top: 10%;
+  height: auto;
   border-radius: 30px;
 }
 
